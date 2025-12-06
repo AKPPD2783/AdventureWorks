@@ -1,1 +1,1 @@
-I developed these projects while completing the Microsoft Power BI Data Analyst Professional Certificate. All datasets and PBIX files were developed during the seven-module program.
+I developed projects while completing the Microsoft Power BI Data Analyst Professional Certificate. All AdventureWorks datasets and PBIX files were developed during the seven-module program, so I could gain a better understanding of the many capabilities within Power BI.
